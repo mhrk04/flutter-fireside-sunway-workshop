@@ -1,6 +1,6 @@
 # flutter_application_1_demo
 
-A new Flutter project.
+A Flutter domo project for Fluter fireside [GDSC Sunway](https://linktr.ee/gdsc.sunway) workshop.
 
 ## Getting Started
 
